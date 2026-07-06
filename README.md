@@ -1,4 +1,5 @@
-# ☕ Coffee Shop Sales Performance Dashboard
+☕ Coffee Shop Sales Performance Dashboard
+Sales Analytics | Customer Insights | Product Performance | Tableau
 
 ## 📌 Project Overview
 
