@@ -1,5 +1,12 @@
 # ☕ Coffee Shop Sales Performance Dashboard
-Sales Analytics | Customer Insights | Product Performance | Tableau
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-1F77B4?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4B0082?style=for-the-badge)
+
+---
+![Coffee Shop Sales Performance Dashboard](Images/banner.png)
 
 ---
 
