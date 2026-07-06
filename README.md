@@ -1,6 +1,8 @@
 # ☕ Coffee Shop Sales Performance Dashboard
 Sales Analytics | Customer Insights | Product Performance | Tableau
 
+---
+
 ## 📌 Project Overview
 
 This project was developed to analyze the sales performance of a coffee shop business using Tableau.
