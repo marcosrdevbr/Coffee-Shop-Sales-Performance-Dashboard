@@ -39,7 +39,7 @@ The dashboard was designed to answer the following business questions:
 ## 📊 Dashboard
 
 🔗 **Tableau Public:**  
-[Coffee Shop Sales Performance Dashboard](https://public.tableau.com/app/profile/marcos.rogerio5761/viz/CoffeeShopSalesPerformanceDashboard_17833678335990/Dashboard1)
+[Coffee Shop Sales Performance Dashboard](https://public.tableau.com/app/profile/marcos.rogerio5761/viz/CoffeeShopSalesPerformanceDashboard_17833689531360/Dashboard1)
 
 ---
 
