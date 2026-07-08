@@ -134,11 +134,11 @@ Through this project, I strengthened my skills in:
 
 ---
 
-# 👨‍💻 Author
+## 👨🏾‍💻 Author
 
 **Marcos Rogério da Silva**
 
-Trade Marketing | Business Intelligence | Data Analytics
+Trade Marketing | Merchandising | Business Intelligence | Data Analytics
 
 ### Connect with me
 
